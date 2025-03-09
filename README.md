@@ -1,4 +1,3 @@
-```markdown
 # BasicFileCompression
 
 **BasicFileCompression** is an application developed to compress files for more efficient storage. The project first reads the files in binary format and then saves the bit sequences in a special format. While the goal of this process is to reduce the file size, it is possible that there will be no size reduction in some cases. This is a project developed for experimental purposes.
